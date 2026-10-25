@@ -1,0 +1,6 @@
+model,seed,qubits,parameters,gates,noise_sites,hardware_train_execution_upper_bound,checkpoint_validation_executions,train_and_validation_execution_upper_bound,train_and_validation_shots_upper_bound
+baseline,0,4,32,93,126,1150500,1708860,2859360,2927984640
+baseline,1,4,32,93,126,1150500,1708860,2859360,2927984640
+baseline,2,4,32,93,126,1150500,1708860,2859360,2927984640
+baseline,3,4,32,93,126,1150500,1708860,2859360,2927984640
+baseline,4,4,32,93,126,1150500,1708860,2859360,2927984640

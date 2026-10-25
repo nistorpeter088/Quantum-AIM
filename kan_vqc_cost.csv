@@ -1,0 +1,2 @@
+seed,optimizer,validation,best_epoch_or_step,qubits,circuit_parameters,gates,noise_locations,tracker_per_example,training_executions,training_executions_tracker,validation_executions,train_val_executions,train_val_executions_tracker,train_val_shots,train_val_shots_tracker
+0,adam,full,1,4,15,20,25,31.0,56544,56544.0,6000,62544,62544.0,64045056,64045056.0
