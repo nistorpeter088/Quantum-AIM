@@ -1,0 +1,26 @@
+# Mediu Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Checkpoint-uri și rezultate experimentale
+results/
+vqc_checkpoints/
+linear_only_seed0.pt
+
+# Scripturi auxiliare neincluse în predare
+main.py
+serban.py
+
+# CSV-uri temporare din root
+quick_*.csv
+quantum_only_dev_*.csv
+task2_*.csv
+
+vqc_runs/fresh1/
+vqc_runs/nou1/
+vqc_runs/raport_concurs/
+vqc_runs/reparat2/*.pt
